@@ -44,9 +44,3 @@ Connected-component analysis complements these methods by identifying distinct r
 - Flood-fill hole filling
 - Connected-component analysis
 
-## Author
-
-Hasti Ebrahimzadeh — Student ID 40133401
-
-This repository is intended for educational demonstration and portfolio use.
-
